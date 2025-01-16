@@ -30,7 +30,11 @@ About This Course:
 
 
 
-Setup .env file
+
+
+
+
+**Setup .env file**
 
 PORT=5000
 

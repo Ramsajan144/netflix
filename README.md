@@ -1,6 +1,7 @@
-                                                                                   MERN Netflix Clone 🎬
+                                                          MERN Netflix Clone 🎬
 
-<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/VikasVerma-1/VRV-Backend-Assignment/blob/main/Screenshot%202024-11-26%20235814.png">
+<img width="1680" alt="Screenshot 2024-11-25 at 3 58 56 PM" src="https://github.com/Ramsajan144/netflix/blob/main/screenshot-for-readme.png">
+
 
 
 About This Course:
@@ -26,6 +27,8 @@ About This Course:
 🌐 Deployment
 
 🚀 And Many More Cool Features
+
+
 
 Setup .env file
 
